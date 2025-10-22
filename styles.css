@@ -120,7 +120,8 @@ li span{
    border-radius: 50%;
    cursor: pointer;
    z-index: 1000;
-   position:absolute;
+   position:fixed;
+   bottom:0;
    right:10px;
 }
 
